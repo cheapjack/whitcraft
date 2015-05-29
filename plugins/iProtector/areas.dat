@@ -1,0 +1,16 @@
+---
+museum:
+  name: museum
+  flags:
+    edit: true
+    god: false
+    touch: false
+  pos1:
+  - 43.000000
+  - 3.000000
+  - 188.000000
+  pos2:
+  - 158.000000
+  - 30.000000
+  - 9.000000
+...

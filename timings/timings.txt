@@ -1,0 +1,26 @@
+Minecraft
+    Task: Scheduler Runnable: Callback#pocketmine\network\rcon\RCON::check(interval:3) Time: 1258850 Count: 61 Avg: 20637 Violations: 0
+    ** Plugins Time: 18835 Count: 1 Avg: 18835 Violations: 0
+    ** Full Server Tick Time: 367658615 Count: 181 Avg: 2031263 Violations: 0
+    Connection Handler Time: 7243872 Count: 181 Avg: 40021 Violations: 0
+    Scheduler Time: 8129120 Count: 182 Avg: 44665 Violations: 0
+    Server Command Time: 4792213 Count: 182 Avg: 26331 Violations: 0
+    World Generation Time: 1188993 Count: 182 Avg: 6533 Violations: 0
+    ** tickEntity Time: 36414862 Count: 182 Avg: 200082 Violations: 0
+    ** activatedTickEntity Time: 34410000 Count: 182 Avg: 189066 Violations: 0
+    ** livingEntityBaseTick Time: 13305426 Count: 182 Avg: 73107 Violations: 0
+    ** Scheduler - Sync Tasks Time: 932217 Count: 37 Avg: 25195 Violations: 0
+    ** world - doTickPending Time: 634670 Count: 182 Avg: 3487 Violations: 0
+    ** world - doTickTiles Time: 298338413 Count: 182 Avg: 1639222 Violations: 0
+    ** world - entityTick Time: 37283659 Count: 182 Avg: 204855 Violations: 0
+    ** world - tileEntityTick Time: 511646 Count: 182 Avg: 2811 Violations: 0
+    world - doTick Time: 341174364 Count: 182 Avg: 1874584 Violations: 0
+    Plugin: WorldEditArt v1.0.0_beta_dev_#045 Event: pemapmodder\worldeditart\WorldEditArt::onPacketReceived(DataPacketReceiveEvent) Time: 15974 Count: 1 Avg: 15974 Violations: 0
+    Task: Scheduler Runnable: Callback#pcntl_signal_dispatch(interval:5) Time: 793934 Count: 36 Avg: 22054 Violations: 0
+    Task: Scheduler Runnable: Callback#pocketmine\Server::checkTicks(interval:100) Time: 34094 Count: 1 Avg: 34094 Violations: 0
+    ** tickEntity - Player Time: 33997536 Count: 182 Avg: 186800 Violations: 0
+# Version v0.10.4 alpha
+# PocketMine-MP Alpha_1.4dev-900
+# Entities 1
+# LivingEntities 1
+Sample time 9099326134 (9.099326133728s)

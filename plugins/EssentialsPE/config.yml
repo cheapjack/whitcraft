@@ -1,0 +1,8 @@
+---
+safe-afk: true
+auto-afk-kick: 300
+oversized-stacks: 64
+near-radius-limit: 200
+near-default-radius: 200
+enable-custom-colors: false
+...
