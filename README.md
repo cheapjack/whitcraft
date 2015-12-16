@@ -38,7 +38,7 @@ A new update to `PHP 7` the programming language pocketmine-MP runs on in Oct 20
 
 Server | Server Address | Server Port | Online? | Server Version | iOS Version | Android Version
 ------------ | ------------- |------------ | ------------- | ------------ | ------------ | ------------  
-Internal (private) | `whitcraft.playat.ch` | 19135 | <ul><li>[x] </li> | `1.4.1-980 絶好(Zekkou)ケーキ(Cake) (API 1.11.0)` | `v0.10.4` | `v0.10.5 alpha`
-External (public) | `whitcraft.uk` | 19132 | <ul><li>[x] </li> | `1.5dev-1264 "活発(Kappatsu)フグ(Fugu)" (API 1.12.0)` | `v0.11.0` | `v0.11.0`
+Internal (private) | `whitcraft.playat.ch` | 19135 | <ul><li>[x] </li> | `1.6dev-52 (API 1.13)` | `v0.13.1 alpha` | `v0.13.1 alpha`
+External (public) | `whitcraft.uk` | 19135 | <ul><li>[x] </li> | `1.6dev-52 (API 1.13)` | `v0.13.1 alpha` | `v0.13.1 alpha`
  
 
