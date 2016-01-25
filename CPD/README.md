@@ -25,6 +25,18 @@ Find out more in the [project video here](https://vimeo.com/92258008)
 
 ## The Day
 
+**Morning**
+
+ * 1000 Introdcution 
+ * 1030 Play explore and test
+
+ * 1230 LUNCH
+
+**Afternoon**
+
+ * Play with iMovie to record our own MineCraft experiments based on the mornign session
+
+
 ## Themes 
 
 ### Nature
@@ -33,17 +45,13 @@ Explore gardens and plantings, compare the real garden with the model
 
 Switch to survival mode and ops can give players individual plants
 
-
-
+**Requirements:**
 Bonemeal, Flowers, Trees, Google Maps
 
 
+### Exploring Collections Tapestry Teleport
 
-
-
-### Tapestry Teleport
-
-**Jump inside a giant ["Brer Rabbit" Tapestry](http://gallerysearch.ds.man.ac.uk/Detail/23332) by [William Morris](https://en.wikipedia.org/wiki/William_Morris) from the Whitworth Collection
+**Jump inside a giant ["Brer Rabbit" Tapestry](http://gallerysearch.ds.man.ac.uk/Detail/23332) by [William Morris](https://en.wikipedia.org/wiki/William_Morris) from the Whitworth Collection**
 
 You can use the [PaintMyLawn plugin](https://github.com/shoghicp/PaintMyLawn) to take pictures of an artwork and then import this image to the floor of a minecraft server. 
 
