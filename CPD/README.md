@@ -34,6 +34,31 @@ Explore gardens and plantings, compare the real garden with the model
 Switch to survival mode and ops can give players individual plants
 Bonemeal, Flowers, Trees, Google Maps
 
+### Tapestry Teleport
+
+**Jump inside a giant ["Brer Rabbit" Tapestry](http://gallerysearch.ds.man.ac.uk/Detail/23332) by [William Morris](https://en.wikipedia.org/wiki/William_Morris) from the Whitworth Collection
+
+You can use the [PaintMyLawn plugin](https://github.com/shoghicp/PaintMyLawn) to take pictures of an artwork and then import this image to the floor of a minecraft server. 
+
+To do this you need to install the [PaintMyLawn](https://github.com/shoghicp/PaintMyLawn) plugin and re-start the server.
+
+Use a tool like [ImageMagick](http://www.imagemagick.org/script/convert.php) to convert images to a manageable size (no more than 600x600 pixels)and in the correct format, **.ppm**
+
+#### Example
+
+`user$ convert brerrabbit.png -resize %50 brerrabbit.ppm`
+
+The **.ppm** format must have `P6` in the header (ie the first line of the file) of the file (you can view it in a text editor like [Vim](https://github.com/vim) or NotePad. 
+
+**.ppm** is the Portable Pixmap Binary format. See [this](https://en.wikipedia.org/wiki/Netpbm_format) on `.ppm` formats
+
+Then you need to place this image on a webserver somewhere that has 644 file permissions. Then use the command:
+
+`/paintimage <playername> <full image address http://something.something/myimage.ppm>`
+
+You must be `op` to use this command. It will then if all is well replace the ground floor grass blocks with coloured blocks from the image.
+
+
 ### Local History 
 
 Use signs to illuminate the garden and gallery with local knowledge
@@ -56,6 +81,8 @@ Use apps like skinseed for [iOS](https://itunes.apple.c m/us/app/skinseed-skin-c
 
 ###Projects
 
+List of [Minecraft projects from Ross](http://cheapjack.github.io/EverythingMinecraft.html)
+
 [CloudMaker](https://github.com/cheapjack/CloudMaker/)
 [Printcraft](http://www.printcraft.org/)
 [stuffaboutcode](http://stuffaboutcode.com)
@@ -67,6 +94,5 @@ Use apps like skinseed for [iOS](https://itunes.apple.c m/us/app/skinseed-skin-c
 [PaintMyLawn](https://github.com/shoghicp/PaintMyLawn)
 
 ###Further Reading 
-
 
 

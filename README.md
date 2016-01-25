@@ -31,9 +31,19 @@ https://www.pocketmine.net/ Hats off to the awesome work of @shoghicp
 ### Players
 Player limit `20`
 
+### Staying Safe
+
+<img src="https://www.nspcc.org.uk/globalassets/for-go-live-images/o2-partnership/minecraft-cta-v4.png?width=400&mode=crop&anchor=middlecenter" width="400">
+
+The NSPCC have this great [online guide](https://www.nspcc.org.uk/preventing-abuse/keeping-children-safe/online-safety/minecraft-a-parents-guide) for parents and carers and players if you have any concerns about online safety.
+
+The internal WhitCraft server is white-listed while the public one is not, but all server logs are recorded. If you have any concerns please contact Steven Roper at the Whitworth Art Gallery or any staff member.
+
+We cannot accept any liabilty for what may happen on these servers but will endeavour to block any inappropriate behaviour where possible and can ban players where necessary.
+
 ### Status, Compatibility & Versions
 
-Have a look below to see if our server is compatible with your client. We aim to keep track of updates while maintaining essential plugins and ensuring compatibility. The External server is prioritised but updates can lag depending on availability of development builds. If you love the server and want to minimise downtime turn off auto-update!
+Have a look below to see if our server is compatible with your client. We aim to keep track of updates while maintaining essential plugins and ensuring compatibility. The External server is prioritised but updates can lag depending on availability of development builds. If you love the server and want to minimise downtime turn off auto-update settings on your client/app!
 
 A new update to `PHP 7` the programming language pocketmine-MP runs on in Oct 2015 may cause some delays to the External server updates but watch this space but latest versions offer cross platform play with Windows 10 minecraft which is currently untested
 
