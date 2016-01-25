@@ -32,7 +32,14 @@ Find out more in the [project video here](https://vimeo.com/92258008)
 Explore gardens and plantings, compare the real garden with the model
 
 Switch to survival mode and ops can give players individual plants
+
+
+
 Bonemeal, Flowers, Trees, Google Maps
+
+
+
+
 
 ### Tapestry Teleport
 
@@ -58,6 +65,9 @@ Then you need to place this image on a webserver somewhere that has 644 file per
 
 You must be `op` to use this command. It will then if all is well replace the ground floor grass blocks with coloured blocks from the image.
 
+**Requirements:**
+Maps, PaintMyLawn plugin
+
 
 ### Local History 
 
@@ -77,18 +87,18 @@ Maps, PaintMyLawn plugin
 
 Use apps like skinseed for [iOS](https://itunes.apple.c m/us/app/skinseed-skin-creator-skins/id675628523?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.africasunrise.skinseed&hl=en) to explore the identity of famous artists connected to the Whitworth collections and exhibitions
 
-##Tools
+##Tools & Resources
 
 ###Projects
 
+[Minecraft Education Edition](http://education.minecraft.net/resources/)
 List of [Minecraft projects from Ross](http://cheapjack.github.io/EverythingMinecraft.html)
-
 [CloudMaker](https://github.com/cheapjack/CloudMaker/)
 [Printcraft](http://www.printcraft.org/)
 [stuffaboutcode](http://stuffaboutcode.com)
 
 
-###Pocketmine Plugins
+###Pocketmine
 
 [Pocketmine server software](https://www.pocketmine.net/)
 [PaintMyLawn](https://github.com/shoghicp/PaintMyLawn)
