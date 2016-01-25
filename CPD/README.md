@@ -2,7 +2,7 @@
 
 A day exploring the potential of Minecraft for education for Teachers & Parents
 
-<img src="https://cloud.githubusercontent.com/assets/128456/9811986/43a7816e-5872-11e5-86ca-acfaa4c2cbcb.png" width="300">
+<img src="https://cloud.githubusercontent.com/assets/128456/9811986/43a7816e-5872-11e5-86ca-acfaa4c2cbcb.png" width="600">
 
 Introduction
 
