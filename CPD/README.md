@@ -27,14 +27,14 @@ Find out more in the [project video here](https://vimeo.com/92258008)
 
 **Morning**
 
- * 1000 Introdcution 
- * 1030 Play explore and test
+ * **1000** Introdcution 
+ * **1030** Play explore and test
 
- * 1230 LUNCH
+ * **1230** LUNCH
 
 **Afternoon**
 
- * Play with iMovie to record our own MineCraft experiments based on the mornign session
+ * **1300** Play with iMovie to record our own MineCraft experiments based on the mornign session
 
 
 ## Themes 
@@ -101,17 +101,17 @@ Use apps like skinseed for [iOS](https://itunes.apple.c m/us/app/skinseed-skin-c
 
 ###Projects
 
-[Minecraft Education Edition](http://education.minecraft.net/resources/)
+ * [Minecraft Education Edition](http://education.minecraft.net/resources/)
 List of [Minecraft projects from Ross](http://cheapjack.github.io/EverythingMinecraft.html)
-[CloudMaker](https://github.com/cheapjack/CloudMaker/)
-[Printcraft](http://www.printcraft.org/)
-[stuffaboutcode](http://stuffaboutcode.com)
+ * [CloudMaker](https://github.com/cheapjack/CloudMaker/)
+ * [Printcraft](http://www.printcraft.org/)
+ * [stuffaboutcode](http://stuffaboutcode.com)
 
 
 ###Pocketmine
 
-[Pocketmine server software](https://www.pocketmine.net/)
-[PaintMyLawn](https://github.com/shoghicp/PaintMyLawn)
+ * [Pocketmine server software](https://www.pocketmine.net/)
+ * [PaintMyLawn](https://github.com/shoghicp/PaintMyLawn)
 
 ###Further Reading 
 
