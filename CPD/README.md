@@ -4,7 +4,7 @@ A day exploring the potential of Minecraft for education for Teachers & Parents
 
 <img src="https://cloud.githubusercontent.com/assets/128456/9811986/43a7816e-5872-11e5-86ca-acfaa4c2cbcb.png" width="600">
 
-Introduction
+## Introduction
 
 Minecraft has in the past 2 years developed a loosely connected community of educators that have begun to explore the potential of the game as a form of social design and learning.
 
@@ -50,7 +50,7 @@ Maps, PaintMyLawn plugin
 
 ### Artists at Whitworth
 
-Use apps like skinseed to explore famous artists connected to the whitworth
+Use apps like skinseed for [iOS](https://itunes.apple.c m/us/app/skinseed-skin-creator-skins/id675628523?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.africasunrise.skinseed&hl=en) to explore the identity of famous artists connected to the Whitworth collections and exhibitions
 
 ##Tools
 
