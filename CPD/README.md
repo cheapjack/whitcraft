@@ -51,6 +51,8 @@ Bonemeal, Flowers, Trees, Google Maps
 
 ### Exploring Collections Tapestry Teleport
 
+<img src="https://cloud.githubusercontent.com/assets/128456/12558485/bae25e22-c387-11e5-805c-b5c0ab331937.png" width="400">
+
 **Jump inside a giant ["Brer Rabbit" Tapestry](http://gallerysearch.ds.man.ac.uk/Detail/23332) by [William Morris](https://en.wikipedia.org/wiki/William_Morris) from the Whitworth Collection**
 
 You can use the [PaintMyLawn plugin](https://github.com/shoghicp/PaintMyLawn) to take pictures of an artwork and then import this image to the floor of a minecraft server. 
