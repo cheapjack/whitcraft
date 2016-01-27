@@ -37,7 +37,7 @@ Then it becomes a modelling tool for real space that young people are familiar w
 **Morning**
 
  * **1000** Introduction 
-  * Minecraft [FAQ](https://github.com/cheapjack/whitcraft/blob/master/CPD/CPD.md)
+  * Minecraft [FAQ](https://github.com/cheapjack/whitcraft/blob/master/CPD/FAQ.md)
   * Minecraft Pocket Edition 101
    * How to play
    * How to logon to a server 
