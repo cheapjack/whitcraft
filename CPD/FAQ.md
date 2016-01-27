@@ -40,6 +40,37 @@ Its also a very customisable game, known in minecraft as 'modding'
 
  * [BiblioCraft](http://www.bibliocraftmod.com/origin-story/)
 
+## Getting started playing Minecraft: Pocket Edition
+
+ * Buy it for your device or book and use the Whitworth iPads
+
+### Logging onto a server
+
+ * To get onto a specific server address like `whitcraft.uk` you need to:
+
+<img src="https://cloud.githubusercontent.com/assets/128456/12626078/aedc529c-c52e-11e5-8882-9ffcf931862e.png" width="300">
+
+Click on the `Play` Button on the start screen
+
+<img src="https://cloud.githubusercontent.com/assets/128456/12619684/0545b2fe-c511-11e5-8a8d-1facd79c3239.png" width="300">
+
+You will see a list of servers or an empty list if its your first go. Click on the `new` button
+
+<img src="https://cloud.githubusercontent.com/assets/128456/12626160/31a1aaf6-c52f-11e5-9ea0-f56a0f2fe806.png" width="300">
+
+Then Click on the small external server button to the left of the `Advanced` button 
+
+<img src="https://cloud.githubusercontent.com/assets/128456/12619687/054ac244-c511-11e5-8817-57e4cac7666a.png" width="300">
+
+
+
+<img src="https://cloud.githubusercontent.com/assets/128456/12619686/0549f616-c511-11e5-8ecf-0718b6c8c1e0.png" width="300">
+
+
+
+
+
+
 ## Getting Started modding
 
 I recommmend starting with setting up either a simple pocketmine server or using the Minecraft Pi Edition with a Raspberry Pi 2.

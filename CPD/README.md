@@ -12,9 +12,9 @@ Getting involved in that world and trying to contribute to it is very rewarding 
 
 These skillsets can then be passed on to participants and other learners easily often in a way they are unaware of. For the past 2 years artist Ross Dalziel hasbeen working with [FACT](http://fact.co.uk/) and the AHRC's (Arts and Humanitites Research Network) [IT as a Utility (ITaaU) Network](http://www.itutility.ac.uk) to explore this area through the [CloudMaker Project](https://github.com/cheapjack/CloudMaker)  
 
-[Whitworth](http://www.whitworth.manchester.ac.uk/) Museum of the Year 2015 have worked with Ross AKA [@cheapjack](httpto develop a Minecraft Pocket Edition Server as a learning resource to allow people to explore a virtual space inside the real space of the gallery. 
+[Whitworth](http://www.whitworth.manchester.ac.uk/) Museum of the Year 2015 have worked with Ross AKA [@cheapjack](http:cheapjack.org.uk) to develop a Minecraft: Pocket Edition Server as a learning resource. It allows people to explore a virtual game space inside the real space of the gallery. 
 
-Today we are going to explore that resource by building and playing on it and explore the potential of Pocket Edition and have a brief look at other ways of using Minecraft to learn.
+Today we are going to explore that resource by building and playing on it and look at the educational potential of Pocket Edition and have a brief look at other ways of using Minecraft to learn. 
 
 You can find out more and play on the [WhitCraft server here](http://cheapjack.github.io/whitcraft/)
 
@@ -24,13 +24,13 @@ CloudMaker and [The Minecraft Of Things](http://minecraftofthings.tumblr.com) sp
 
 Find out more in the [project video here](https://vimeo.com/92258008) 
  
-<img src="https://cloud.githubusercontent.com/assets/128456/12619114/981b6de2-c50e-11e5-93db-d76640fdb801.png" width="400">
+<img src="https://cloud.githubusercontent.com/assets/128456/12619114/981b6de2-c50e-11e5-93db-d76640fdb801.png" width="600">
 
 ## The Day
 
-There are so many ways to interact with minecraft but for today we are going to explore Whitcraft the Whitworth's Engagement Resource built in pocketmine for mobile devices, iOS and Android
+There are so many ways to interact with minecraft but for today we are going to explore [WhitCraft](http://cheapjack.github.io/whitcraft) the Whitworth's Engagement Resource built in pocketmine for mobile devices, iOS and Android.
 
-Above is the Minecraft Pocket Edition Player `williamblake` with a custom Skinseed skin. William, genius that he is will be helping illustrate our days activity. Many of his truly awesome works are in the Whitworth collection. More on skinslater.
+The image above is the Minecraft: Pocket Edition Player `williamblake` with a custom **Skinseed skin**. William, genius that he is will be helping illustrate our days activity. Many of his(the real William Blake) truly awesome works are in the Whitworth collection. More on skins later.
 
 There are not many people out there using the mobile version in this way so we are pioneers here! The beauty of mobile is you can inhabit the virtual space of the game in the real space and play with similarities and differences. 
 
@@ -44,14 +44,22 @@ Then it becomes a modelling tool for real space that young people are familiar w
   * Minecraft Pocket Edition 101
    * How to play
    * How to logon to a server 
- * **1100** Build Explore and test stuff!
-  * Explore & Build with the [WhitCraft](http://cheapjack.github.io/whitcraft/) resource
+ * **1100** Move on to the themed activities below: build, explore and test stuff!
+  * Explore & Build with the [WhitCraft](http://cheapjack.github.io/whitcraft/) resource and follow the theme activities
 
  * **1230** LUNCH
 
 **Afternoon**
 
  * **1300** Play with iMovie to record our own MineCraft experiments based on the morning session
+ 
+  * Improve the forest!
+  * Annotate tapestries!
+  * Import images (ask @cheapjack for help)
+  * Paste wikipedia entrys at relevant coordinates!
+  * Make a custom skin for [Engels](https://www.marxists.org/archive/marx/works/cw/volume02/02-376.gif) when he lived in Manchester  
+  * Install something in the gallery and work out its volume.
+
  * **1500** SESSION ENDS
 
 
@@ -136,13 +144,24 @@ Explore civic/local identity by outlining local buildings
 **Requirements:**
 Maps, PaintMyLawn plugin
 
-### Artists at Whitworth
+### Artists at Whitworth: custom skins
 
 <img src="https://cloud.githubusercontent.com/assets/128456/12619457/058330da-c510-11e5-97a6-91d1ef2f2930.png" width="300">
 
-<img src="https://cloud.githubusercontent.com/assets/128456/12619457/058330da-c510-11e5-97a6-91d1ef2f2930.png" width="300">
+<img src="https://cloud.githubusercontent.com/assets/128456/12619507/41407902-c510-11e5-93f5-97b9f7ddd7b8.png" width="300">
 
-Use apps like skinseed for [iOS](https://itunes.apple.c m/us/app/skinseed-skin-creator-skins/id675628523?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.africasunrise.skinseed&hl=en) to explore the identity of famous artists connected to the Whitworth collections and exhibitions
+Use apps like Skinseed for [iOS](https://itunes.apple.c m/us/app/skinseed-skin-creator-skins/id675628523?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.africasunrise.skinseed&hl=en) to explore the identity of famous artists connected to the Whitworth collections and exhibitions
+
+**Skins** are the way minecraft represents your player to other players or yourself if you switch into 3rd person view (in options available in-game). Its fairly standard for people to make their own skin over the standard **Steve** character
+
+#### Activity
+
+ * Find some famous or not so famous artists from the [Whitworth Collection](http://gallerysearch.ds.man.ac.uk/) and find an image or portrait and use the Skinseed app to customise an existing skin to represent them 
+  * Open Skinseed on the iPad
+  * Search for an existing skin 
+**Requirements:**
+
+**Skinseed** for [iOS](https://itunes.apple.c m/us/app/skinseed-skin-creator-skins/id675628523?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.africasunrise.skinseed&hl=en) installed on the client device (the iPad/iPhone/Android that you are playing on)
 
 #### Maths and Measurements STEAM/STEM
 
@@ -158,7 +177,7 @@ Our resource does have some links to STEM subjects: Art is a technical business 
 [WorldEditArt Plugin](http://forums.pocketmine.net/plugins/worldeditart.842/)
 
 
-### The End (the nether)
+### The End (of the workshop not [the nether](http://minecraft.gamepedia.com/The_Nether))
 
 This should get you started with ideas for using the Whitcraft server and pocketmine to explore learning in Minecraft; Now take what you've learned, experiment and learn how to video and publish your hard work this afternoon!
 
@@ -182,3 +201,5 @@ This should get you started with ideas for using the Whitcraft server and pocket
 ###Further Reading 
 
  * [Adventures in Minecraft](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111894691X.html)
+
+
