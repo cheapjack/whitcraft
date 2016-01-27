@@ -161,7 +161,12 @@ Use apps like Skinseed for [iOS](https://itunes.apple.c m/us/app/skinseed-skin-c
 
  * Find some famous or not so famous artists from the [Whitworth Collection](http://gallerysearch.ds.man.ac.uk/) and find an image or portrait and use the Skinseed app to customise an existing skin to represent them 
   * Open Skinseed on the iPad
-  * Search for an existing skin 
+  * Search for an existing skin then edit to suit artist
+  * Export to Camera Roll
+  * Go back to Minecraft app, click on `Skins` from main menu
+  * Click on `Browse` and find the new skin from your camera roll area of the iPad system
+  * Play as a famous artist! 
+
 **Requirements:**
 
 **Skinseed** for [iOS](https://itunes.apple.c m/us/app/skinseed-skin-creator-skins/id675628523?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.africasunrise.skinseed&hl=en) installed on the client device (the iPad/iPhone/Android that you are playing on)
