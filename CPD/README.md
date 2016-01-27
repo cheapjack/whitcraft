@@ -192,6 +192,7 @@ This should get you started with ideas for using the Whitcraft server and pocket
  * [stuffaboutcode](http://stuffaboutcode.com)
  * [WhitCraft](http://cheapjack.github.io/whitcraft/)
  * [ScriptCraft](http://scriptcraftjs.org/)
+ * [Explore space in Minecraft](https://github.com/martinohanlon/exploring-space-with-minecraft)
 
 ###Pocketmine
 
