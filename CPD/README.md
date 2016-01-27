@@ -152,9 +152,11 @@ Our resource does have some links to STEM subjects: Art is a technical business 
 
  * Imagine you are an art handler and technician about to install a brand new work in the gallery that currently holds (in the game that is) a model of Cornelia Parker's 'Dark Matter'
  * Use `//pos1` and `//pos2` from the [WorldEditArt Plugin](http://forums.pocketmine.net/plugins/worldeditart.842/) to calculate the volume of the gallery space and use graph paper to plan out a new model
-
+ * Refer to this [guide](https://github.com/PEMapModder/Small-ZC-Plugins/wiki/WorldEditArt-|-Player's-Guide) for WorldEdit in pocketmine.
  
 **Requirements:**
+[WorldEditArt Plugin](http://forums.pocketmine.net/plugins/worldeditart.842/)
+
 
 ### The End (the nether)
 
