@@ -95,6 +95,9 @@ Bonemeal, Flowers, Trees, Google Maps (option), Eyes
 
  * `/tp -400 100 -400` to the Brer Rabbit tapestry
  * Try build up areas of the tapestry in grass blocks and annotate them with signs
+ * Try importing a new image
+  * `/tp 1000 100 1000`
+  * `/paintimage <playername> http://whitcraft.uk/maps/spacewalk.ppm`
 
 **How to**
 
