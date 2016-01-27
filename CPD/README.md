@@ -24,10 +24,13 @@ CloudMaker and [The Minecraft Of Things](http://minecraftofthings.tumblr.com) sp
 
 Find out more in the [project video here](https://vimeo.com/92258008) 
  
+<img src="https://cloud.githubusercontent.com/assets/128456/12619114/981b6de2-c50e-11e5-93db-d76640fdb801.png" width="400">
 
 ## The Day
 
 There are so many ways to interact with minecraft but for today we are going to explore Whitcraft the Whitworth's Engagement Resource built in pocketmine for mobile devices, iOS and Android
+
+Above is the Minecraft Pocket Edition Player `williamblake` with a custom Skinseed skin. William, genius that he is will be helping illustrate our days activity. Many of his truly awesome works are in the Whitworth collection. More on skinslater.
 
 There are not many people out there using the mobile version in this way so we are pioneers here! The beauty of mobile is you can inhabit the virtual space of the game in the real space and play with similarities and differences. 
 
@@ -44,17 +47,19 @@ Then it becomes a modelling tool for real space that young people are familiar w
  * **1100** Build Explore and test stuff!
   * Explore & Build with the [WhitCraft](http://cheapjack.github.io/whitcraft/) resource
 
-
  * **1230** LUNCH
 
 **Afternoon**
 
  * **1300** Play with iMovie to record our own MineCraft experiments based on the morning session
+ * **1500** SESSION ENDS
 
 
-## Explore and Build
+## Explore and Build Themes and Activity
 
 ### Nature
+
+<img src="https://cloud.githubusercontent.com/assets/128456/12619222/0e3af2b8-c50f-11e5-848c-01368448666c.png" width="400">
 
 Explore gardens and plantings, compare the real garden with the model
 
@@ -78,25 +83,36 @@ Bonemeal, Flowers, Trees, Google Maps (option), Eyes
 
 **Jump inside a giant ["Brer Rabbit" Tapestry](http://gallerysearch.ds.man.ac.uk/Detail/23332) by [William Morris](https://en.wikipedia.org/wiki/William_Morris) from the Whitworth Collection**
 
-You can use the [PaintMyLawn plugin](https://github.com/shoghicp/PaintMyLawn) to take pictures of an artwork and then import this image to the floor of a minecraft server. 
+#### Activity
 
-To do this you need to install the [PaintMyLawn](https://github.com/shoghicp/PaintMyLawn) plugin and re-start the server.
+ * `/tp -400 100 -400` to the Brer Rabbit tapestry
+ * Try build up areas of the tapestry in grass blocks and annotate them with signs
 
-Use a tool like [ImageMagick](http://www.imagemagick.org/script/convert.php) to convert images to a manageable size (no more than 600x600 pixels)and in the correct format, **.ppm**
+**How to**
+
+You can use the [PaintMyLawn server plugin](https://github.com/shoghicp/PaintMyLawn) to import images to the grassblock floor of a minecraft server. 
+
+To do this you need to install the [PaintMyLawn](https://github.com/shoghicp/PaintMyLawn) plugin and re-start your server or `/reload`.
+
+Use a tool like [ImageMagick](http://www.imagemagick.org/script/convert.php) to convert images to a manageable size (no more than 600x600 pixels) and in the correct format, **.ppm**
+
+[ImageMagick](http://www.imagemagick.org/) is a command line tool for image processing its faster than photoshop or [Gimp](http://www.gimp.org/) and its free (like gimp) and cross platform
 
 #### Example
 
-`user$ convert brerrabbit.png -resize %50 brerrabbit.ppm`
+`$ convert brerrabbit.png -resize %50 brerrabbit.ppm`
 
-The **.ppm** format must have `P6` in the header (ie the first line of the file) of the file (you can view it in a text editor like [Vim](https://github.com/vim) or NotePad. 
+The **.ppm** format must have `P6` in the header (ie the first line of the file) of the file (you can view it in a text editor like Mac TextEdit, [Vim](https://github.com/vim) or Windows NotePad. 
 
 **.ppm** is the Portable Pixmap Binary format. See [this](https://en.wikipedia.org/wiki/Netpbm_format) on `.ppm` formats
 
-Then you need to place this image on a webserver somewhere that has 644 file permissions. Then use the command:
+Then you need to place this image on a webserver somewhere that has `755` file permissions. Then use the command:
+
+<img src="https://cloud.githubusercontent.com/assets/128456/12619359/8c80c51c-c50f-11e5-9612-8b262314e997.png" width="400">
 
 `/paintimage <playername> <full image address http://something.something/myimage.ppm>`
 
-You must be `op` to use this command. It will then if all is well replace the ground floor grass blocks with coloured blocks from the image.
+You must be `op` to use this command. It will then if all is well replace the ground floor grass blocks with coloured blocks from the image, centred on the named player.
 
 **Requirements:**
 Maps, PaintMyLawn plugin
@@ -106,6 +122,8 @@ Maps, PaintMyLawn plugin
 
 Use signs to illuminate the garden and gallery with local knowledge
 
+<img src="https://cloud.githubusercontent.com/assets/128456/12619376/a4cf93b4-c50f-11e5-8870-945095a1adf6.png" width="400">
+
 **Requirements:**
 Signs in game, local knowledge
 
@@ -113,12 +131,34 @@ Signs in game, local knowledge
 
 Explore civic/local identity by outlining local buildings
 
+<img src="https://cloud.githubusercontent.com/assets/128456/12619415/ce0c099c-c50f-11e5-8cd6-405b6751f45d.png" width="400">
+
 **Requirements:**
 Maps, PaintMyLawn plugin
 
 ### Artists at Whitworth
 
+<img src="https://cloud.githubusercontent.com/assets/128456/12619457/058330da-c510-11e5-97a6-91d1ef2f2930.png" width="300">
+
+<img src="https://cloud.githubusercontent.com/assets/128456/12619457/058330da-c510-11e5-97a6-91d1ef2f2930.png" width="300">
+
 Use apps like skinseed for [iOS](https://itunes.apple.c m/us/app/skinseed-skin-creator-skins/id675628523?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.africasunrise.skinseed&hl=en) to explore the identity of famous artists connected to the Whitworth collections and exhibitions
+
+#### Maths and Measurements STEAM/STEM
+
+Our resource does have some links to STEM subjects: Art is a technical business and its only recently that the sciences and arts have been seperated, even a programmer needs the design skills an engineer or artist can learn.
+
+#### Activity
+
+ * Imagine you are an art handler and technician about to install a brand new work in the gallery that currently holds (in the game that is) a model of Cornelia Parker's 'Dark Matter'
+ * Use `//pos1` and `//pos2` from the [WorldEditArt Plugin](http://forums.pocketmine.net/plugins/worldeditart.842/) to calculate the volume of the gallery space and use graph paper to plan out a new model
+
+ 
+**Requirements:**
+
+### The End (the nether)
+
+This should get you started with ideas for using the Whitcraft server and pocketmine to explore learning in Minecraft; Now take what you've learned, experiment and learn how to video and publish your hard work this afternoon!
 
 ##Tools & Resources
 
