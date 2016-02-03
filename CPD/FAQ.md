@@ -90,6 +90,17 @@ We will add a brief guide here but you can find out how to setup a quick basic `
 
 Then build worlds relevant to you and your cohorts!
 
+### Getting Started with a server
+
+Read these detailed tutorials here 
+http://pocketmine-mp.readthedocs.org/en/latest/
+
+You also do need PHP5 installed correctly which you can get from here
+ 
+http://pocketmine-mp.readthedocs.org/en/latest/installation.html
+http://pocketmine-mp.readthedocs.org/en/latest/update.html
+
+
 ### Pop Up servers outdoors
 
 <img src="https://lh5.ggpht.com/hzBT0nCoZAWZbicRnRV17SI-n6XwVPHv0EhYkHN_Ycs2Yg4ZxujMb-svCx1Ch8mkyME=w300" width="200">
