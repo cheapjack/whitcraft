@@ -1,5 +1,5 @@
 ## WhitCraft
-![WhitCraft Status](https://img.shields.io/badge/whitcraftprivate%20status-down-red.svg)
+![WhitCraft Status](https://img.shields.io/badge/whitcraftprivate%20status-running-brightgreen.svg)
 
 ![WhitCraft Status 2](https://img.shields.io/badge/whitcraftpublic%20status-running-brightgreen.svg)
 
