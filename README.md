@@ -14,9 +14,10 @@ https://www.pocketmine.net/ Hats off to the awesome work of @shoghicp
 
  * Buy the mobile Minecraft app from Mojang from the [Play Store](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en) or [iTunes App Store](https://itunes.apple.com/us/app/minecraft-pocket-edition/id479516143?mt=8). Check compatibility with server in the table below
  * Add an external server to the `Play` menu and use the server address below
+ * Carefully follow the adding external server [instructions here](https://github.com/cheapjack/whitcraft/blob/master/CPD/FAQ.md#logging-onto-an-external-server)
  * Call it something like Whitcraft (This is your description/name of the server, not the address)
  * Add the server address as `whitcraft.uk`
- * Make sure you use the right standard port number `19132`
+ * Make sure you use the right port number, it's `19135`
  * Start the game and spawn in front of the gallery!
  * Explore and have fun. Build restricted to gardens at present!
 
@@ -53,4 +54,8 @@ Server | Server Address | Server Port | Online? | Server Version | iOS Version |
 Internal (private) | `whitcraft.playat.ch` | 19135 | <ul><li>[x] </li> | `1.6dev-52 (API 1.13)` | `v0.13.1 alpha` | `v0.13.1 alpha`
 External (public) | `whitcraft.uk` | 19135 | <ul><li>[x] </li> | `1.6dev-52 (API 1.13)` | `v0.13.1 alpha` | `v0.13.1 alpha`
  
+### What's on the repo
 
+We've included the bare bones of a linux setup on the repo here but have wiped any essential data like passwords and `ops` data. If you want to setup your own version of the gallery you can use the map region files included by cloning the repo and downloading the latest PHP Binaries and `PocketMine-MP.phar` files from the [Jenkins Repo](http://jenkins.pocketmine.net/) and follow the instructions on [PocketMine](http://www.pocketmine.net/) or for more detail on running your own pocketmine server, [Read The Docs](https://pocketmine-mp.readthedocs.org/en/latest/).
+
+**Happy Crafting!**
