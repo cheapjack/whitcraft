@@ -27,6 +27,7 @@ Its also a very customisable game, known in minecraft as 'modding'
 
 #### Custom servers like 
 
+ * [CloudMaker](https://github.com/cheapjack/CloudMaker)
  * [Printcraft](http://www.printcraft.org/) 3D print your minecraft creations
  * [QCraft](http://qcraft.org/about/) Quantum Blocks!
  * [ComputerCraft](http://www.computercraft.info/)
