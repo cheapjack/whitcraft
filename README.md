@@ -52,7 +52,7 @@ A new update to `PHP 7` the programming language pocketmine-MP runs on in Oct 20
 Server | Server Address | Server Port | Online? | Server Version | iOS Version | Android Version
 ------------ | ------------- |------------ | ------------- | ------------ | ------------ | ------------  
 Internal (private) | `whitcraft.playat.ch` | 19135 | <ul><li>[x] </li> | `1.6dev-52 (API 1.13)` | `v0.13.1 alpha` | `v0.13.1 alpha`
-External (public) | `whitcraft.uk` | 19135 | <ul><li>[x] </li> | `1.6dev-52 (API 1.13)` | `v0.13.1 alpha` | `v0.13.1 alpha`
+External (public) | `whitcraft.uk` | 19135 | <ul><li>[x] </li> | `1.6dev-pull_3924 (API 1.13.2)` | `v0.13.2 alpha` | `v0.13.2 alpha`
  
 ### What's on the repo
 
