@@ -35,7 +35,7 @@ Player limit `20`
 
 ### Staying Safe
 
-<img src="https://www.nspcc.org.uk/globalassets/for-go-live-images/o2-partnership/minecraft-cta-v4.png?width=400&mode=crop&anchor=middlecenter" width="400">
+<img src="https://www.nspcc.org.uk/globalassets/blocks/about-us/our-partners/o2/o2-partnership/minecraft-cta-v4.png" width="400">
 
 The NSPCC have this great [online guide](https://www.nspcc.org.uk/preventing-abuse/keeping-children-safe/online-safety/minecraft-a-parents-guide) for parents and carers and players if you have any concerns about online safety.
 
