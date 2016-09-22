@@ -17,7 +17,7 @@ https://www.pocketmine.net/ Hats off to the awesome work of @shoghicp
  * Carefully follow the adding external server [instructions here](https://github.com/cheapjack/whitcraft/blob/master/CPD/FAQ.md#logging-onto-an-external-server)
  * Call it something like Whitcraft (This is your description/name of the server, not the address)
  * Add the server address as `whitcraft.uk`
- * Make sure you use the right port number, it's `19135`
+ * Make sure you use the right port number, it's `19132`
  * Start the game and spawn in front of the gallery!
  * Explore and have fun. Build restricted to gardens at present!
 
@@ -52,7 +52,7 @@ A new update to `PHP 7` the programming language pocketmine-MP runs on in Oct 20
 Server | Server Address | Server Port | Online? | Server Version | iOS Version | Android Version
 ------------ | ------------- |------------ | ------------- | ------------ | ------------ | ------------  
 Internal (private) | `whitcraft.playat.ch` | 19135 | <ul><li>[x] </li> | `1.6dev-52 (API 1.13)` | `v0.13.1 alpha` | `v0.13.1 alpha`
-External (public) | `whitcraft.uk` | 19135 | <ul><li>[x] </li> | `1.6dev (API 2.0)` | `v0.14.0` | `v0.14.0`
+External (public) | `whitcraft.uk` | 19132 | <ul><li>[x] </li> | `1.6dev 27` | `v0.15.0` | `v0.15.0`
  
 ### What's on the repo
 
