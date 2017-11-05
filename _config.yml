@@ -1,0 +1,8 @@
+title: WhitCraft
+description: Custom PocketMine server for the Whitworth Art Gallery in Manchester
+google_analytics: UA-22200611-8
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
