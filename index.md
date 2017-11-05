@@ -1,8 +1,8 @@
 ## WhitCraft
 
-![WhitCraft Status](https://img.shields.io/badge/whitcraftprivate-up%20for%20v0.13.1-brightgreen.svg)
+![WhitCraft Status](https://img.shields.io/badge/whitcraftprivate-down%20for%20v0.13.1-red.svg)
 
-![WhitCraft Status 2](https://img.shields.io/badge/whitcraftpublic-up%20for%20v0.15.0-brightgreen.svg)
+![WhitCraft Status 2](https://img.shields.io/badge/whitcraftpublic-down%20for%20v0.15.0-red.svg)
 
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/wkrTV1UBNUg" frameborder="0" allowfullscreen></iframe></p>
@@ -72,8 +72,8 @@ A new update to `PHP 7` the programming language pocketmine-MP runs on in Oct 20
 
 Server | Server Address | Server Port | Online? | Server Version | iOS Version | Android Version
 ------------ | ------------- |------------ | ------------- | ------------ | ------------ | ------------
-Internal (private) | `whitcraft.playat.ch` | 19135 | <ul><li>[x] </li> | `1.6dev-52 (API 1.13)` | `v0.13.1 alpha` | `v0.13.1 alpha`
-External (public) | `whitcraft.uk` | 19132 | <ul><li>[x] </li> | `1.6dev-27(API 2.0.0)` | `v0.15.0 alpha` | `v0.15.0`
+Internal (private) | `whitcraft.playat.ch` | 19135 | <ul><li>[ ] </li> | `1.6dev-52 (API 1.13)` | `v0.13.1 alpha` | `v0.13.1 alpha`
+External (public) | `whitcraft.uk` | 19132 | <ul><li>[ ] </li> | `1.6dev-27(API 2.0.0)` | `v0.15.0 alpha` | `v0.15.0`
 
 
  
