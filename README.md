@@ -1,7 +1,7 @@
 ## WhitCraft
-![WhitCraft Status](https://img.shields.io/badge/whitcraftprivate%20status-down%20for%20v.0.13.1-brightgreen.svg)
+![WhitCraft Status](https://img.shields.io/badge/whitcraftprivate%20status-down%20for%20v.0.13.1-red.svg)
 
-![WhitCraft Status 2](https://img.shields.io/badge/whitcraftpublic-down%20for%20v0.15.0-brightgreen.svg)
+![WhitCraft Status 2](https://img.shields.io/badge/whitcraftpublic-down%20for%20v0.15.0-red.svg)
 
 Custom pocketmine server for Whitworth Art Gallery, Museum of the Year 2015
 
