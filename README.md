@@ -1,7 +1,7 @@
 ## WhitCraft
-![WhitCraft Status](https://img.shields.io/badge/whitcraftprivate%20status-running%20for%20v.0.13.1-brightgreen.svg)
+![WhitCraft Status](https://img.shields.io/badge/whitcraftprivate%20status-down%20for%20v.0.13.1-brightgreen.svg)
 
-![WhitCraft Status 2](https://img.shields.io/badge/whitcraftpublic-up%20for%20v0.15.0-brightgreen.svg)
+![WhitCraft Status 2](https://img.shields.io/badge/whitcraftpublic-down%20for%20v0.15.0-brightgreen.svg)
 
 Custom pocketmine server for Whitworth Art Gallery, Museum of the Year 2015
 
@@ -51,8 +51,8 @@ A new update to `PHP 7` the programming language pocketmine-MP runs on in Oct 20
 
 Server | Server Address | Server Port | Online? | Server Version | iOS Version | Android Version
 ------------ | ------------- |------------ | ------------- | ------------ | ------------ | ------------  
-Internal (private) | `whitcraft.playat.ch` | 19135 | <ul><li>[x] </li> | `1.6dev-52 (API 1.13)` | `v0.13.1 alpha` | `v0.13.1 alpha`
-External (public) | `whitcraft.uk` | 19132 | <ul><li>[x] </li> | `1.6dev 27` | `v0.15.0` | `v0.15.0`
+Internal (private) | `whitcraft.playat.ch` | 19135 | <ul><li>[ ] </li> | `1.6dev-52 (API 1.13)` | `v0.13.1 alpha` | `v0.13.1 alpha`
+External (public) | `whitcraft.uk` | 19132 | <ul><li>[ ] </li> | `1.6dev 27` | `v0.15.0` | `v0.15.0`
  
 ### What's on the repo
 
